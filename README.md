@@ -43,8 +43,7 @@ It is implemented in `face_landmarks.py` and is used for tracking eyes, mouth op
 #### Note
 If you want to use dlib models then checkout the [old-master branch](https://github.com/vardanagarwal/Proctoring-AI/tree/old_master).
 
-### Eye tracking
-`eye_tracker.py` is to track eyes. A detailed explanation is provided in this [article](https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6?source=friends_link&sk=d9db46e2f41258c6c23d18792775d2a5). However, it was written using dlib.
+
 
 ![eye tracking](../../blob/master/gifs/1.gif)
 
