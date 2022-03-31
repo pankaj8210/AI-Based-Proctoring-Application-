@@ -45,27 +45,28 @@ If you want to use dlib models then checkout the [old-master branch](https://git
 
 
 
-![eye tracking](../../blob/master/gifs/1.gif)
+![eye tracking]
+
 
 ### Mouth Opening Detection
 `mouth_opening_detector.py` is used to check if the candidate opens his/her mouth during the exam after recording it initially. It's explanation can be found in the main article, however, it is using dlib which can be easily changed to the new models.
 
-![Mouth opening detection](../../blob/master/gifs/2.gif)
+![Mouth opening detection]
 
 ### Person counting and mobile phone detection
 `person_and_phone.py` is for counting persons and detecting mobile phones. YOLOv3 is used in Tensorflow 2 and it is explained in this [article](https://medium.com/analytics-vidhya/count-people-in-webcam-using-yolov3-tensorflow-f407679967d5?source=friends_link&sk=95ae7a010eeef429a407a7a2de2ff8ec) for more details.
 
-![person counting and phone detection](../../blob/master/gifs/3.gif)
+![person counting and phone detection]
 
 ### Head pose estimation
 `head_pose_estimation.py` is used for finding where the head is facing. An explanation is provided in this [article](https://towardsdatascience.com/real-time-head-pose-estimation-in-python-e52db1bc606a?source=friends_link&sk=0bae01db2759930197bfd33777c9eaf4)
 
-![head pose estimation](../../blob/master/gifs/4.gif)
+![head pose estimation]
 
 ### Face spoofing
 `face_spoofing.py` is used for finding whether the face is real or a photograph or image. An explanation is provided in this [article](https://medium.com/visionwizard/face-spoofing-detection-in-python-e46761fe5947). The model and working is taken from this Github [repo](https://github.com/ee09115/spoofing_detection).
 
-![face spoofing](../../blob/master/gifs/5.gif)
+![face spoofing]
 
 ### FPS obtained
 
